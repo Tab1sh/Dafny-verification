@@ -1,0 +1,11 @@
+file_format_version = "1.0"
+dafny_version = "4.7.0.0"
+[options_by_module."Common.IO"]
+[options_by_module."Common.Data.Maybe"]
+[options_by_module."Common.Data.Result"]
+[options_by_module."Common.Data.Seq"]
+[options_by_module."Common.Data.String"]
+[options_by_module."Common.Data.Nat"]
+[options_by_module.Commands]
+[options_by_module.ConsoleIO]
+[options_by_module.CS886]
